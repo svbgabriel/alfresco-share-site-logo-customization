@@ -64,5 +64,9 @@
 				<updatePolicy>daily</updatePolicy>
 			</snapshots>
 		</repository>
+		<repository>
+			<id>spring</id>
+			<url>https://repo.spring.io/plugins-release</url>
+		</repository>
 	</repositories>
 </project>
